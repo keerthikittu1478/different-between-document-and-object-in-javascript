@@ -1,0 +1,1 @@
+# different-between-document-and-object-in-javascript
